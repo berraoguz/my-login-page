@@ -1,0 +1,32 @@
+{
+  "signupUsers": [
+    {
+      "fullname": "Berra Oğuz",
+      "email": "berraoguz@outlook.com",
+      "password": "1412",
+      "phone": "5465458",
+      "id": 1
+    },
+    {
+      "fullname": "Oğuz berra",
+      "email": "berraoguz14@gmail.com",
+      "password": "2904",
+      "phone": "5465487",
+      "id": 2
+    },
+    {
+      "fullname": "Berra Oğuz",
+      "email": "201307028@kocaeli.edu.tr",
+      "password": "201",
+      "phone": "5465458",
+      "id": 3
+    },
+    {
+      "fullname": "Oğuz berra",
+      "email": "berraoguz@outlook.com",
+      "password": "1412",
+      "phone": "5465478",
+      "id": 4
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "signupUsers": [
+    {
+      "fullname": "Berra Oğuz",
+      "email": "berraoguz@outlook.com",
+      "password": "1412",
+      "phone": "5465458",
+      "id": 1
+    }
+  ]
+}
