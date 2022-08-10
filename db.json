@@ -6,6 +6,13 @@
       "password": "1412",
       "phone": "5465458",
       "id": 1
+    },
+    {
+      "fullname": "Oğuz berra",
+      "email": "berraoguz14@gmail.com",
+      "password": "2904",
+      "phone": "6546546878",
+      "id": 2
     }
   ]
 }
